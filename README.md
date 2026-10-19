@@ -1,14 +1,14 @@
 # Tesla English
 
-Same 15-minute Tesla documentary, with the on-screen titles in English.
+Same 15-minute Tesla documentary. The narration and the on-screen titles are in English.
 
-**InodeAi.** 1920×1080. Independent film. Not affiliated with Tesla, Inc. The pictures are 3D recreations. The narration is still the original Spanish voiceover. Only the lettering changed.
+**InodeAi.** 1920×1080. Independent film. Not affiliated with Tesla, Inc. The pictures are 3D recreations.
 
 ## Download
 
 | File | What it is |
 |---|---|
-| [documental-tesla-english.mp4](https://github.com/inodeman/tesla-english/releases/download/v1.0/documental-tesla-english.mp4) | The film, 15:00, 1080p |
+| [documental-tesla-english.mp4](https://github.com/inodeman/tesla-english/releases/download/v1.0/documental-tesla-english.mp4) | The film, 15:00, 1080p, English voice |
 | [thumbnail-tesla-english.jpg](thumbnail-tesla-english.jpg) | Thumbnail, 1280×720 |
 | [youtube-description.txt](youtube-description.txt) | Title, description, chapters, hashtags |
 
